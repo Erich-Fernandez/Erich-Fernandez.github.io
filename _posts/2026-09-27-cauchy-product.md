@@ -4,7 +4,7 @@ title: Cauchy Products
 subtitle: A Review of Cauchy Products and an Application to Semigroups
 topic: analysis
 subtopic: series
-date: 2026-09-28
+date: 2026-09-27
 mathjax: true
 ---
 

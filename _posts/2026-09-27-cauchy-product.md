@@ -21,7 +21,7 @@ If you don't, no need to worry. All you need to remember are two things: (1) if 
 **Note:** If you're still a bit confused, the key to understanding this result is to envision an invisible $x^n$ next to the series terms and treat these series as the evaluation of a power series at $x=1$. This serves as both a motivation and intuition for the proof to follow.
 
 ### 2. Cauchy Products in Operator Spaces
-I recently came across the following statement which was the motivation for this post. How do I justify the following claim in the book: If $A$ is some bounded linear operatoron some Banach space $X$, $e^{(t+s)A}=e^{tA}e^{sA}$.
+I recently came across the following statement which was the motivation for this post. How do I justify the following claim in the book: If $A$ is some bounded linear operator on some Banach space $X$, then $e^{(t+s)A}=e^{tA}e^{sA}$.
 
 Essentially, this boils down to proving the following result:
 

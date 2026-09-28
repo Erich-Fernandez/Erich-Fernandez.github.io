@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Erich Fernandez. A math hobbyist from the Philippines. My interests mainly include:
+Hey! Generalbugis here. A math hobbyist from the Philippines. My interests mainly include:
 - stochastic analysis
 - PDE
 - parallel computing

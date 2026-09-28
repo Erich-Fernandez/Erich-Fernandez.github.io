@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Too Much Mathematics
 
 # Your name to show in the footer
-author: Some Person
+author: Erich Fernandez
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -25,6 +25,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Your Mom: "google.com"
 
 ################
 # --- Logo --- #

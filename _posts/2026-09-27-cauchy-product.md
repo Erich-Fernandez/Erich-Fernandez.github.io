@@ -17,7 +17,8 @@ $$ (\sum^\infty_{n=0}a_n)(\sum^\infty_{m=0}b_m) = \sum^\infty_{k=0}\sum^k_{j=0} 
 
 If you don't, no need to worry. All you need to remember are two things: (1) if the LHS series converges and at least one of them converges absolutely, then the equality holds, and (2) if the RHS series converges, then the equality also automatically holds.
 
-If you're still a bit confused, the key to understanding this result is to envision an invisible $x^n$ next to the series terms and treat these series as the evaluation of a power series at $x=1$. This serves as both a motivation and intuition for the proof to follow.
+{: .box-note}
+**Note:** If you're still a bit confused, the key to understanding this result is to envision an invisible $x^n$ next to the series terms and treat these series as the evaluation of a power series at $x=1$. This serves as both a motivation and intuition for the proof to follow.
 
 ### 2. Cauchy Products in Operator Spaces
 I recently came across the following statement which was the motivation for this post. How do I justify the following claim in the book: If $A$ is some bounded linear operatoron some Banach space $X$, $e^{(t+s)A}=e^{tA}e^{sA}$.

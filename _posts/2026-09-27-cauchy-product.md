@@ -33,7 +33,7 @@ The first equality is just a trivial binomial expansion in commutative rings whe
 Assuming the $a_n$ series sum absolutely converges, the key to the proof is to note that 
 $$\sum^n_{k=0}\sum^k_{j=0} a_j b_{k-j} = a_0(b_0+\dots+b_n) + a_1(b_0+\dots+b_{n-1}) + \dots + a_n(b_0).$$
 
-From here, it is a simple manner of brute forcing the convergence by noticing that the partial sums $b_0+\dots+b_j$ that are close to the value of the full series sum is multiplied to the low $a_j$ terms and that the partial sums that are still far from the true value are multiplied to the higher $a_n$ values. By performing a Kronecker-like proof, we can easily conclude the result.
+From here, it is a simple manner of brute forcing the convergence by noticing that the partial sums $b_0+\dots+b_j$ that are close to the value of the full series sum are paired with the low index $a_{k-j}$ terms and that the partial sums that are still far from the true value are paired with the higher $a_n$ values. By performing a Kronecker-like proof, we can easily conclude the result.
 
 ### 3. Closing Thoughts
 I hope this was helpful to people who needed a quick refresher on cauchy products.

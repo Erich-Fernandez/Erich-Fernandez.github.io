@@ -17,7 +17,7 @@ If we recall from complex analysis, a common trick performed in order to find La
 
 $$ \frac1a = \frac{1}{1-(1-a)} = \sum^\infty_{n=0} (1-a)^n $$
 
-This equality is valid whenever the series converges, which is whenever \\$|1-a|<1$. 
+This equality is valid whenever the series converges, which is whenever $|1-a|<1$. 
 
 ### 3. The Big Idea
 Now, what if we used this same idea on operators, namely what if we use the identity operator $I$ and some linear operator $A$ on a Banach space $X$. The Banach space assumption is necessary in order to conclude that $\mathscr{L}(X)$ is a Banach space, which is necessary in order to use the Cauchy criterion to get series convergence (identically to how it is done in basic analysis).

@@ -4,7 +4,7 @@ title: Geometric Series for Operators
 subtitle: Obtaining the Inverse by Indirect Meeans
 topic: analysis
 subtopic: series
-date: 2026-09-30
+date: 2026-09-29
 mathjax: true
 ---
 

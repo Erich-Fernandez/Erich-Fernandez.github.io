@@ -976,6 +976,29 @@ pre {
   border-left-color: #3CB371;
 }
 
+
+.theorem-box {
+  background-color: #fcfcfc;
+  border-left: 5px solid #0076ba;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.theorem-box::before {
+  content: "Theorem. ";
+  font-weight: bold;
+  color: #0076ba;
+}
+
+.theorem-box p {
+  display: inline;
+  font-style: italic;
+}
+
+
+
 /* --- Misc blog post styles --- */
 
 .blog-post :first-child {

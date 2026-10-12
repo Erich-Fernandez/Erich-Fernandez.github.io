@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geometric Series for Operators
-subtitle: Obtaining the Inverse by Indirect Meeans
+subtitle: Obtaining the Inverse by Indirect Means
 topic: analysis
 subtopic: series
 date: 2026-09-29

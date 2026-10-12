@@ -998,6 +998,27 @@ pre {
 }
 
 
+/* Definition Box Layout */
+.definition-box {
+  background-color: #fafbfc;
+  border-left: 5px solid #2da44e; /* Clean green accent border */
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+/* Optional: Automatically italicize text paragraphs inside the box */
+.definition-box p {
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+/* Ensure the last paragraph doesn't have extra bottom margin */
+.definition-box p:last-child {
+  margin-bottom: 0;
+}
+
 
 /* --- Misc blog post styles --- */
 
